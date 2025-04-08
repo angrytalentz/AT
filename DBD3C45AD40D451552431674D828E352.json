@@ -1,0 +1,18 @@
+{
+	"serial": "DBD3C45AD40D451552431674D828E352",
+	"access": 1,
+	"name": "Jesus",
+	"type": "Premium",
+	"expiry": "30230412",
+	"features": {
+		"ap": 1,
+		"novaext": 1,
+		"multiclient": 1,
+		"qol": 1,
+		"autobuff": 0,
+		"autostand": 1,
+		"autoboxes": 0,
+		"macro": 1,
+		"grfedit": 1
+	}
+}
