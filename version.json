@@ -1,7 +1,7 @@
 {
-	"ver_no": "1.52",
-	"patch_notes": "cleaned up info tab and fixed AP status indicator",
-	"update_url": "http://64.52.109.118/angry-talentz/download/",
+	"ver_no": "1.53",
+	"patch_notes": "switched over to new host",
+	"update_url": "https://angrytalentz.great-site.net/download/",
 	"psa": "1",
-	"psa_msg": "You are using an outdated version of AngryTalentz. Go to http://64.52.109.118/angry-talentz/download/ to update."
+	"psa_msg": "You are using an outdated version of AngryTalentz. Go to https://angrytalentz.great-site.net/download/ to update."
 }
