@@ -8,9 +8,9 @@
 		"novaext": 1,
 		"multiclient": 1,
 		"qol": 1,
-		"autobuff": 0,
+		"autobuff": 1,
 		"autostand": 1,
-		"autoboxes": 0,
+		"autoboxes": 1,
 		"macro": 1,
 		"grfedit": 1
 	}

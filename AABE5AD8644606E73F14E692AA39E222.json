@@ -1,17 +1,16 @@
 {
-	"serial": "DBD3C45AD40D451552431674D828E352",
+	"serial": "AABE5AD8644606E73F14E692AA39E222",
 	"access": 1,
 	"type": "Premium",
-	"expiry": "30230412",
+	"expiry": "30231230",
 	"features": {
 		"ap": 1,
-		"novaext": 1,
+		"novaext": 0,
 		"multiclient": 1,
 		"qol": 1,
 		"autobuff": 0,
 		"autostand": 1,
 		"autoboxes": 0,
-		"macro": 1,
 		"grfedit": 1
 	}
 }

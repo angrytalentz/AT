@@ -1,17 +1,16 @@
 {
-	"serial": "DBD3C45AD40D451552431674D828E352",
+	"serial": "F59B2BAEDD1A2A54392B2FDA9A09729F",
 	"access": 1,
-	"type": "Premium",
-	"expiry": "30230412",
+	"type": "Autopot+Qol",
+	"expiry": "30231230",
 	"features": {
 		"ap": 1,
-		"novaext": 1,
+		"novaext": 0,
 		"multiclient": 1,
 		"qol": 1,
 		"autobuff": 0,
 		"autostand": 1,
 		"autoboxes": 0,
-		"macro": 1,
 		"grfedit": 1
 	}
 }
