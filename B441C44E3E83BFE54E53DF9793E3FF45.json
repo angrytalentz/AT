@@ -1,0 +1,16 @@
+{
+	"serial": "B441C44E3E83BFE54E53DF9793E3FF45",
+	"access": 1,
+	"type": "Autopot only",
+	"expiry": "20250701",
+	"features": {
+		"ap": 1,
+		"novaext": 0,
+		"multiclient": 1,
+		"qol": 0,
+		"autobuff": 0,
+		"autostand": 0,
+		"autoboxes": 0,
+		"grfedit": 0
+	}
+}
