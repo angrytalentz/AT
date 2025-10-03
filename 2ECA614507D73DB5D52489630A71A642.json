@@ -2,7 +2,7 @@
 	"serial": "2ECA614507D73DB5D52489630A71A642",
 	"access": 1,
 	"type": "Autopot+Qol",
-	"expiry": "20251004",
+	"expiry": "20251011",
 	"features": {
 		"ap": 1,
 		"novaext": 0,
@@ -13,4 +13,5 @@
 		"autoboxes": 0,
 		"grfedit": 0
 	}
+
 }
