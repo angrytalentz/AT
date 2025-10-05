@@ -1,0 +1,16 @@
+{
+	"serial": "F57347CF31DB0C98EB8F8487E445C636",
+	"access": 1,
+	"type": "Premium",
+	"expiry": "30231230",
+	"features": {
+		"ap": 1,
+		"novaext": 0,
+		"multiclient": 1,
+		"qol": 1,
+		"autobuff": 0,
+		"autostand": 1,
+		"autoboxes": 0,
+		"grfedit": 1
+	}
+}
