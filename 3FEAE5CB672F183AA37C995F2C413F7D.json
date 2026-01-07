@@ -1,0 +1,16 @@
+{
+	"serial": "3FEAE5CB672F183AA37C995F2C413F7D",
+	"access": 1,
+	"type": "Qol only",
+	"expiry": "20260208",
+	"features": {
+		"ap": 0,
+		"novaext": 0,
+		"multiclient": 1,
+		"qol": 1,
+		"autobuff": 0,
+		"autostand": 1,
+		"autoboxes": 0,
+		"grfedit": 0
+	}
+}
