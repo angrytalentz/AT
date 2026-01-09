@@ -2,7 +2,7 @@
 	"serial": "C9A422BBF1FDAEB081C6931746D0AB3D",
 	"access": 1,
 	"type": "Qol only",
-	"expiry": "20260104",
+	"expiry": "20260210",
 	"features": {
 		"ap": 0,
 		"novaext": 0,
@@ -14,6 +14,7 @@
 		"grfedit": 0
 	}
 }
+
 
 
 
