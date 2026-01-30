@@ -2,7 +2,7 @@
 	"serial": "FA4AB9FC8FFCE6DFD73E0EF856C54041",
 	"access": 1,
 	"type": "Qol only",
-	"expiry": "20251112",
+	"expiry": "20260301",
 	"features": {
 		"ap": 0,
 		"novaext": 0,
@@ -15,3 +15,4 @@
 	}
 
 }
+
