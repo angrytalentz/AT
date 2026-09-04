@@ -1,0 +1,16 @@
+{
+	"serial": "77F9DF09AFB2EE564D9A43F1E386EA6",
+	"access": 1,
+	"type": "Autopot+Qol",
+	"expiry": "20261004",
+	"features": {
+		"ap": 1,
+		"novaext": 0,
+		"multiclient": 1,
+		"qol": 1,
+		"autobuff": 0,
+		"autostand": 1,
+		"autoboxes": 0,
+		"grfedit": 0
+	}
+}
